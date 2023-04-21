@@ -9,4 +9,4 @@ I'm a self-taught passionate BackEnd developer from VietNam 🇻🇳
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 - ➕ See more about [me](http://cvphamthanhhung.epizy.com/?fbclid=IwAR1f96UZiGcJz2byNoX7RyLIxJJ6DqdIjkacNUq6nT8tK-cGcE0CFr7Okvk&i=1)
 - 💬 Ask me about anything [here](https://www.facebook.com/pham.thanhhung.1912/)
-- <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" width="20" height="20" /> My favorite framework is [NestJS](https://docs.nestjs.com/)
+- <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" width="17" height="17" /> My favorite framework is [NestJS](https://docs.nestjs.com/)
