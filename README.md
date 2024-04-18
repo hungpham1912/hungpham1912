@@ -10,4 +10,4 @@ I'm a self-taught passionate BackEnd developer from VietNam 🇻🇳
 - ➕ See more about [me](http://cvphamthanhhung.epizy.com/?fbclid=IwAR1f96UZiGcJz2byNoX7RyLIxJJ6DqdIjkacNUq6nT8tK-cGcE0CFr7Okvk&i=1)
 - 💬 Ask me about anything [here](https://www.facebook.com/pham.thanhhung.1912/)
 - <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" width="17" height="17" /> My favorite framework is [NestJS](https://docs.nestjs.com/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="26" height="17"/>  I have developed one and npm packages
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="26" height="14"/>  I have developed one and npm packages
